@@ -1,4 +1,4 @@
-# Azeotrope Breaking: Advanced Distillation & Phase Equilibrium Modeling
+# Breaking the Ethanol-Water Azeotrope 
 
 This repository contains the thermodynamic models, phase equilibrium data, and separation process calculations for breaking a complex azeotropic mixture. The project explores advanced separation methodologies, such as extractive or pressure-swing distillation, to bypass standard vapor-liquid equilibrium limitations.
 
@@ -25,4 +25,4 @@ This repository contains the thermodynamic models, phase equilibrium data, and s
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Azeotrope-Breaking-Simulation.git](https://github.com/YourUsername/Azeotrope-Breaking-Simulation.git)
+   git clone [https://github.com/aks4212/Azeotrope-Breaking-Simulation.git](https://github.com/aks4212/Azeotrope-Breaking-Simulation.git)
